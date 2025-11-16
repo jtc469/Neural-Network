@@ -59,14 +59,6 @@ The network architecture is:
 
 A simple training loop performs online gradient descent, logs the loss and stops early if training plateaus. The final model is saved to models/model.npz.
 
-## Running the Code
-
-Train:
-python main.py
-
-Evaluate:
-python test.py
-
 ## Key Learning Outcomes
 
 This project demonstrates:
