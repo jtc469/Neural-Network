@@ -17,7 +17,8 @@ Everything is built explicitly to expose the mathematics behind each computation
 
 ## Project Structure
 
-main.py            Training script  
+main.py            Main script
+train.py           Train the model
 test.py            Loads a trained model and prints predictions  
 network.py         Layer and Network classes  
 activations.py     Activation functions  
