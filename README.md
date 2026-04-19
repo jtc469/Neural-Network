@@ -21,4 +21,3 @@ The network architecture is:
 - 1 → 16 with ReLU  
 - 16 → 16 with ReLU  
 - 16 → 1 with Linear  
-## Key Learning Outcomes
